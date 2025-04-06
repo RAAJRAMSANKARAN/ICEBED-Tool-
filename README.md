@@ -8,4 +8,4 @@ In addition to ice thickness estimates, ICEBED also provides glacier bed topogra
 
 The GUI is designed for ease of use, ensuring accessibility for users without programming expertise. GlabTop2_IITB is a semi-automated model that introduces novel shape factor parameterization and applies to any valley glacier. Hence, modelled results will be one of the key model inputs for a simple method for estimating an optimal or near-optimal shape factor-based ice thickness estimation. Details of the modelling process can be seen in the instructions manual. The proposed parameterization method was validated using field measurements, demonstrating its robustness for glaciers where direct ice thickness measurements are unavailable.
 
-Download ICEBED tool:[here] https://github.com/RAAJRAMSANKARAN/ICEBED-Tool-/releases
+Download ICEBED tool:https://github.com/RAAJRAMSANKARAN/ICEBED-Tool-/releases
